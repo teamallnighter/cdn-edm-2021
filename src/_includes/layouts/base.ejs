@@ -8,6 +8,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="icon" href="/favicon.ico" />
     <title><%= title %></title>
+    <script src="https://kit.fontawesome.com/4a08f0c5c1.js" crossorigin="anonymous"></script>
     <meta
       name="description"
       content="<%= (!!locals.description) ? description : site.description %>"
@@ -63,11 +64,11 @@
   </head>
 
   <body class="antialiased w-full text-gray-700">
-    <div class="max-w-screen-xl mx-auto">
+    <div class="max-w-screen-xxxl mx-auto">
       <div class="border-b border-gray-300">
         <div class="pt-16 pb-8">
       
-          <h1 class="font-semibold text-3xl text-gray-800"><%= site.title %></h1>
+          <h1 class="font-semibold text-3xl text-gray-800"><i class="fab fa-canadian-maple-leaf"></i><%= site.title %></h1>
           <div class="text-xl"><%= site.description %></div>
         </div>
         <nav>
