@@ -101,9 +101,12 @@ ul{
 }
 
 .article-body{
+display: flex;
+flex-direction: column;
+justify-content:center;
+align-items: center;
+}
+
+.post-content-wrapper{
   max-width: 50%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
