@@ -85,7 +85,10 @@ a:hover {
   @apply bg-gray-100;
 }
 
-.articles-masonry {
-  --masonry-grid-gap: var(--space-sm);
-  --masonry-col-auto-size: 320px;
+.card{
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  justify-content: center;
+  align-items: center;
 }
