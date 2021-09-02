@@ -16,8 +16,10 @@ collections:
       preview: false # Disable the editor preview and use instead 'preview links'
     fields: # The fields for each document, usually in front matter
       - { name: "title", label: "Title" }
+      - { name: "Artist", label: "Artist" }
       - { name: "description", label: "Description" }
       - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "Release Date", label: "Release Date"}
       - { name: "body", label: "Body", widget: "markdown" }
   - name: "config"
     label: "Configuration"
