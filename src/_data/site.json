@@ -1,8 +1,8 @@
 {
-  "site_name": "Starter",
-  "title": "Eleventy Starter Boilerplate",
-  "description": "Starter code for your 11ty blog Boilerplate",
-  "url": "https://example.com",
+  "site_name": "CDN EDM",
+  "title": "Canadian Electronic Music",
+  "description": "A blog for Canadian electronic music producers and DJ's",
+  "url": "https://6130e820739c3df31acf1d5d--keen-ritchie-fbd2de.netlify.app",
   "locale": "en",
-  "author": "Anonymous"
+  "author": "Bass Therapy"
 }
