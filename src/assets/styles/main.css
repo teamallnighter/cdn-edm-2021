@@ -99,3 +99,7 @@ ul{
   align-items: center;
   justify-content: center;
 }
+
+.article-body{
+  max-width: 50%;
+}
