@@ -18,6 +18,7 @@ collections:
       - { name: "title", label: "Title" }
       - { name: "artist", label: "Artist" }
       - { name: "song-title", label: "Song Title" }
+      - { name: "song-image", label: "Song Image URL" }
       - { name: "description", label: "Description" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "release-date", label: "Release Date"}
