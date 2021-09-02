@@ -84,3 +84,8 @@ a:hover {
 .content th {
   @apply bg-gray-100;
 }
+
+.articles-masonry {
+  --masonry-grid-gap: var(--space-sm);
+  --masonry-col-auto-size: 320px;
+}
