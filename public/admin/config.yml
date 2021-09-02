@@ -17,7 +17,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { name: "title", label: "Title" }
       - { name: "artist", label: "Artist" }
-      - { name: "song-title" label: "Song Title" }
+      - { name: "song-title", label: "Song Title" }
       - { name: "description", label: "Description" }
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "release-date", label: "Release Date"}
