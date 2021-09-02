@@ -1,8 +1,9 @@
 {
   "site_name": "CDN EDM",
-  "title": "Canadian Electronic Music",
-  "description": "A blog for Canadian electronic music producers and DJ's",
+  "title": "CDN EDM",
+  "description": "The Home of Canadian Electronic Music",
   "url": "https://6130e820739c3df31acf1d5d--keen-ritchie-fbd2de.netlify.app",
   "locale": "en",
-  "author": "Bass Therapy"
+  "author": "Bass Therapy",
+  "logo": "/assets/images/main-mark.png"
 }
